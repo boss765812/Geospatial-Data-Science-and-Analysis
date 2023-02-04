@@ -1,1 +1,0 @@
-# Geospatial-Data-Science-and-Analysis
